@@ -1,0 +1,1 @@
+# A simple boilerplate to run a quality check with AWS CodeBuild
